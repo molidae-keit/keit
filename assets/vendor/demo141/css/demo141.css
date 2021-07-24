@@ -33,6 +33,8 @@
     padding: 15px 80px 15px 10px;
     display: block;
     position: relative;
+    pointer-events: none;
+    cursor: default;
 }
 
 .main-timeline .timeline-content:hover {

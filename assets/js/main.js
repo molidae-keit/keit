@@ -160,6 +160,11 @@
                 spaceBetween: 20
             },
 
+            600: {
+                slidesPerView: 3,
+                spaceBetween: 20
+            },
+
             1200: {
                 slidesPerView: 5,
                 spaceBetween: 20

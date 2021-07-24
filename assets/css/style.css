@@ -240,7 +240,7 @@ h1, h2, h3, h4, h5, h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-    color: #fff;
+    color: rgba(0, 0, 0, 0.8);
     font-size: 28px;
     cursor: pointer;
     display: none;
@@ -1100,65 +1100,8 @@ section {
 }
 
 .member .partner {
-    width: 370px;
-    height: 120px;
-    background: #f9f9f9 no-repeat 30%;
-}
-
-.member .partner.partner_01 {
-    background-image: url("../img/partner/logo-01.png");
-}
-
-.member .partner.partner_02 {
-    background-image: url("../img/partner/logo-02.png");
-}
-
-.member .partner.partner_03 {
-    background-image: url("../img/partner/logo-03.png");
-}
-
-.member .partner.partner_04 {
-    background-image: url("../img/partner/logo-04.png");
-}
-
-.member .partner.partner_05 {
-    background-image: url("../img/partner/logo-05.png");
-}
-
-.member .partner.partner_06 {
-    background-image: url("../img/partner/logo-06.png");
-}
-
-.member .partner.partner_07 {
-    background-image: url("../img/partner/logo-07.png");
-}
-
-.member .partner.partner_08 {
-    background-image: url("../img/partner/logo-08.png");
-}
-
-.member .partner.partner_09 {
-    background-image: url("../img/partner/logo-09.png");
-}
-
-.member .partner.partner_10 {
-    background-image: url("../img/partner/logo-10.png");
-}
-
-.member .partner.partner_11 {
-    background-image: url("../img/partner/logo-11.png");
-}
-
-.member .partner.partner_12 {
-    background-image: url("../img/partner/logo-12.png");
-}
-
-.member .partner.partner_13 {
-    background-image: url("../img/partner/logo-13.png");
-}
-
-.member .partner.partner_14 {
-    background-image: url("../img/partner/logo-14.png");
+    padding: 30px;
+    background: #f9f9f9;
 }
 
 /*--------------------------------------------------------------
