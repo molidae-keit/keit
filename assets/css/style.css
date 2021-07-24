@@ -1416,15 +1416,15 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-    background: black;
+    background: white;
     padding: 0 0 30px 0;
-    color: #fff;
+    color: #555;
     font-size: 14px;
 }
 
 #footer .footer-top {
-    background: #0c1817;
-    border-bottom: 1px solid #18302c;
+    background: white;
+    border-top: 1px solid #ddd;
     padding: 60px 0 30px 0;
 }
 
@@ -1445,7 +1445,7 @@ section {
     line-height: 24px;
     margin-bottom: 0;
     font-family: "Raleway", sans-serif;
-    color: #fff;
+    color: #555;
 }
 
 #footer .footer-top .social-links a {
@@ -1472,7 +1472,7 @@ section {
 #footer .footer-top h4 {
     font-size: 16px;
     font-weight: 600;
-    color: #fff;
+    color: #555;
     position: relative;
     padding-bottom: 12px;
 }
@@ -1505,7 +1505,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-    color: #fff;
+    color: #555;
     transition: 0.3s;
     display: inline-block;
     line-height: 1;
